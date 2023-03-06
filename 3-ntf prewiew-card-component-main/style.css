@@ -1,0 +1,99 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #0D1A2D;
+}
+
+.pruebaETH{
+    width: 100%;
+    height: 95vh;
+    display: flex;
+    justify-content: center;
+    /* Agregar align-items center para que no corra al mismo tamaño la card */
+    align-items: center; 
+}
+.card{
+    width: 300px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    margin: 24px;
+    background-color: #15273F;
+    border-radius: 20px;
+    font-family: 'Outfit', sans-serif;
+    font-size: 16px;
+}
+.description img{
+    width: 100%;
+    border-radius: 16px;
+}
+.description h1{
+    font-size: 24px;
+    color: white;
+    font-weight: 600;
+    margin: 16px 0px;
+}
+.description h1:hover{
+    color: #14E5E3;
+}
+.description span{
+    color: #869BB8;
+    font-weight: 300;
+}
+.priceDays{
+    display: flex;
+    flex-direction: row;
+   justify-content: space-between;
+   margin-bottom: 8px;
+}
+.content{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.content img{
+    width: 24px;
+    height: 24px;
+    margin-right: 8px;
+}
+.content p{
+    font-size: 14px;
+}
+.priceText{
+    color: #47DEE8;
+    font-weight: 600;
+}
+.daysLeft{
+    color: #869BB8;
+    font-weight: 300;
+}
+.creator{
+    height: 70px;
+    border-top: 1px solid #869bb86c;
+}
+.creator img{
+    width: 36px;
+    height: auto;
+    border: 1px solid white;
+    border-radius: 26px;
+    margin-right: 16px;
+}
+.creator p{
+    color: #869BB8;
+    font-weight: 400;
+}
+.creator a{
+    color: white;
+    text-decoration: none;
+}
+.creator a:hover{
+    color: #14E5E3;
+}
+.attribution{
+    color: white;
+}
+.aLink{
+    color: #47DEE8 !important;
+    text-decoration: none;
+}
