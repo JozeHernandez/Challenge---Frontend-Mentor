@@ -1,6 +1,10 @@
 # Frontend Mentor - QR code component solution
 
+<<<<<<< HEAD
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+=======
+Esta es una solucion al reto de Frontend Mentor [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Donde se se utiliza el uso de Flexbox para la creacion de una card con QR. 
+>>>>>>> 7ed1082d9cba46f1833fe3d93182a4a9c051d3dd
 
 ## Table of contents
 
@@ -54,5 +58,9 @@ Mas proyectos con cajas y desafios con ellos mismos.
 
 ## Author
 
+<<<<<<< HEAD
 - Website - [FalconCode.mx](https://falconcode.mx/)
+=======
+- Website - [Falconcode.mx](https://falconcode.mx/)
+>>>>>>> 7ed1082d9cba46f1833fe3d93182a4a9c051d3dd
 - Frontend Mentor - [@JozeHernandez](https://www.frontendmentor.io/profile/JozeHernandez)

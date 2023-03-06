@@ -1,0 +1,71 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    /* font-family: 'Fraunces', serif;
+    font-family: 'Montserrat', sans-serif; */
+}
+.challenge{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F3EBE4;
+}
+.card{
+    width: 650px;
+    height: auto;
+    border-radius: 24px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+.imgCard{
+    flex: 1;
+    order: 1;
+    /* width: 100%; */
+}
+.imgCard img{
+    width: 100%;
+    height: 100%;
+    border-radius: 24px 0px 0px 24px;
+}
+.cardProductDesktop{
+    display: block;
+}
+.cardProductMobile{
+    display: none;
+}
+.descripCard{
+    flex: 1; 
+    order: 2;
+    padding: 16px;
+}
+.descripCard h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: hsl(228, 12%, 48%);
+    letter-spacing: 4px;
+}
+.descripCard h1{
+    font-family: 'Fraunces', serif;
+    font-size: 2.3em;
+    line-height: 1em;
+}
+.descripCard p {
+    font-size: 14px;
+    font-weight: 500;
+    font-family: 'Montserrat', sans-serif;
+    color: hsl(228, 12%, 48%);
+}
+
+@media only screen and (max-width: 375px){
+    .cardProductDesktop{
+        display: none;
+    }
+    .cardProductMobile{
+        display: block;
+    }
+}

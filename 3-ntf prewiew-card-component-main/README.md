@@ -15,7 +15,9 @@ Solucion al reto [NFT preview card component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
+### Overview
 
+En este proyecto se crea una tarjeta para criptomonedas donde podremos identificar diferentes propiedades asi como una imagen alusiva a la tarjeta.
 
 ### Screenshot
 
