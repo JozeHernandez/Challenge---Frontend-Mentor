@@ -54,5 +54,5 @@ Mas proyectos con cajas y desafios con ellos mismos.
 
 ## Author
 
-- Website - [FalconCode.mx](https://falconcode.mx/)
+- Website - [Falconcode.mx](https://falconcode.mx/)
 - Frontend Mentor - [@JozeHernandez](https://www.frontendmentor.io/profile/JozeHernandez)
