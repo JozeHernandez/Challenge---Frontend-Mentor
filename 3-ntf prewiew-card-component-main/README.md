@@ -76,4 +76,4 @@ Se tuvo una complicacion en el proyecto en la cual al crear la card dentro de un
 
 ## Acknowledgments
 
--Oscar Hernandez [GitHub](https://github.com/OscarHernandez98)
+-Oscar Hernandez. [GitHub](https://github.com/OscarHernandez98)
